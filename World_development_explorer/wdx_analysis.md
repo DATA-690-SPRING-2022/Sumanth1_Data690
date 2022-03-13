@@ -8,4 +8,4 @@
 
 # Outlook 
 ### To look at usage of eletricity across the world, we'll use World Development Explorer (worlddev.xyz). Below are the countries with the highest and lowest access to eletricity, based on 2016 World Bank data
-![C:\Users\SUMANTH TEJA\Desktop\Data 690\week 06](Top 10.png)
+![World_development_explorer/Top 10.png](Top 10.png)
