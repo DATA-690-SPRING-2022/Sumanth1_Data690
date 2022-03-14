@@ -48,3 +48,6 @@ From the above pie chart we can analyse how much rural population were using the
 ![](pie_3.png)
 
 From the above pie chart we can see that Both USA and Canada were having the rural and uraban 100% of poulation were using the electricity. When look at the total population in Srilanka only 87% of population using the electricity and with pakistan only 70% of the total population were using the electricity for their needs. Afghanistan is the only country with less then 50% of the total population using the electricity. 
+
+# Conclusion
+Overall there is lot of usage in every country but when compared with the top countries with highest usage of electricity lower countries usage is verry less. Due to, there is no severe action by the government. All countries are trying very hard to overcome this situation but many of them are facing many problems like shortage of water and fossil fuels. Countries have to try more to overcome this situation by using the solar and wind energy it will be very much helpful so that, there can be no other emissions like some distinct gases.
