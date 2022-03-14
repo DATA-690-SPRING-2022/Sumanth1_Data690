@@ -29,22 +29,21 @@ To look at usage of eletricity across the world, we'll use World Development Exp
 * Aghanistan is constantly fluctuating in both rural and urban areas.
 * Srilanka and Pakistan were constantly maintaining the same fluctuation from the year 2011 to 2018
 
-# Total population correlation with urban population
+# Access to electricity, urban(% of urban population)
 
-![](corelation_1.png)
+![](corelation_4.png)
 
-* I have included only  5 countries in this scenario. The above graph tells us about the correlation between the total population using electricity in those countries and the urban poulation people using the energy source. 
-* Again the linear regression in the above graph the people in Afghanistan were not using the electricity in the urban area when compared with the total population throughout the other countries.
-* USA and Canada were the total population and urban population are equal and srilanka and pakistan are constantly increasing throughout the years.
+USA and Canada has population who uses electricity 100% in every movement. Pakistan and Srilanka are the next in which more than 95% of urban population were using the electricity. Afghanistan is the only country with the Less percentage of urban population using electricity.
 
-# Total population correalation with rural population
+# Access to electricity, rural(% of rural population)
 
-![](corelation_2.png)
+![](pie_2.png)
 
-Again by using linear regression to find out the correlation between the total popualtion and rural population. It seems to be Afghanistan is rural population is slight change in usage of electricity and moreover USA and Canada were constantly mainataining the same scenario as well like the urban population. From the year 2011 to 2018 people are very much interested to increase in the energy usage in Srilanka and Pakistan.
+From the above pie chart we can analyse how much rural population were using the eletricity. As from we know USA and Canada were having 100% of rural population using electricity. 86% of Srilanka rural population were using the electricity. Pakistan has the poulation of 57% were using the electricity in that country. Moreover, Afghanistan is the only country with less percentage of rural population using electricity which is approximately 29%.
 
-# Renewable energy correlation production from oil, gas and coal sources
 
-![](corelation_3.png)
+# Access to electricity(% of population)
 
-As usual, USA and Canada were using the the highest renewable energy  and production from oil, gas and coal sources tp produce the electricity. Aghanistan is vrey less in using the renewable sources. Pakistan and Srilanka were using constanly in a limit to increase the usage of electricity. 
+![](pie_3.png)
+
+From the above pie chart we can see that Both USA and Canada were having the rural and uraban 100% of poulation were using the electricity. When look at the total population in Srilanka only 87% of population using the electricity and with pakistan only 70% of the total population were using the electricity for their needs. Afghanistan is the only country with less then 50% of the total population using the electricity. 
