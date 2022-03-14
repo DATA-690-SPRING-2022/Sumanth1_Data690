@@ -25,6 +25,7 @@ To look at usage of eletricity across the world, we'll use World Development Exp
 # Access to electricity, rural(% of rural population)
 
 ![](rural_5.png)
+
 * Rural people in USA and Canada were constantly using the electricity. Total Population in both of the countries were using the electricity.
 * Aghanistan is constantly fluctuating in both rural and urban areas.
 * Srilanka and Pakistan were constantly maintaining the same fluctuation from the year 2011 to 2018
