@@ -1,0 +1,141 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2011,22.5439321601,EG.ELC.FOSL.ZS,CAN,Canada,North America,High income,Not classified
+1,2012,21.4246109721,EG.ELC.FOSL.ZS,CAN,Canada,North America,High income,Not classified
+2,2013,20.7693406189,EG.ELC.FOSL.ZS,CAN,Canada,North America,High income,Not classified
+3,2014,20.7631254341,EG.ELC.FOSL.ZS,CAN,Canada,North America,High income,Not classified
+4,2015,21.0671795331,EG.ELC.FOSL.ZS,CAN,Canada,North America,High income,Not classified
+5,2011,64.4736565359,EG.ELC.FOSL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+6,2012,64.2028608583,EG.ELC.FOSL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+7,2013,64.1031553864,EG.ELC.FOSL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+8,2014,63.4725389763,EG.ELC.FOSL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+9,2015,63.0871090825,EG.ELC.FOSL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+10,2011,59.1525132956,EG.ELC.FOSL.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+11,2012,70.7587597681,EG.ELC.FOSL.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+12,2013,40.1230973967,EG.ELC.FOSL.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+13,2014,60.797688789,EG.ELC.FOSL.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+14,2015,51.5248065544,EG.ELC.FOSL.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+15,2011,68.4178582201,EG.ELC.FOSL.ZS,USA,United States,North America,High income,Not classified
+16,2012,68.8628396369,EG.ELC.FOSL.ZS,USA,United States,North America,High income,Not classified
+17,2013,67.8246484698,EG.ELC.FOSL.ZS,USA,United States,North America,High income,Not classified
+18,2014,67.4619532149,EG.ELC.FOSL.ZS,USA,United States,North America,High income,Not classified
+19,2015,67.0787014713,EG.ELC.FOSL.ZS,USA,United States,North America,High income,Not classified
+20,2011,43.2220189082,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+21,2012,69.1,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+22,2013,68.9829406738,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+23,2014,89.5,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+24,2015,71.5,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+25,2016,97.7,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+26,2017,97.7,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+27,2018,98.7156219482,EG.ELC.ACCS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+28,2011,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+29,2012,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+30,2013,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+31,2014,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+32,2015,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+33,2016,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+34,2017,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+35,2018,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+36,2011,70.8800811768,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+37,2012,70.9809417725,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+38,2013,71.1059188843,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+39,2014,71.2509841919,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+40,2015,71.4121246338,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+41,2016,71.585319519,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+42,2017,70.79,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+43,2018,72.634979248,EG.ELC.ACCS.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+44,2011,87.76,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+45,2012,87.0,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+46,2013,90.2,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+47,2014,92.6377029419,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+48,2015,94.3347702026,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+49,2016,97.5,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+50,2017,97.5,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+51,2018,99.5868606567,EG.ELC.ACCS.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+52,2011,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+53,2012,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+54,2013,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+55,2014,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+56,2015,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+57,2016,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+58,2017,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+59,2018,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+60,2011,29.5728807665,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+61,2012,60.8491567563,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+62,2013,61.3157881912,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+63,2014,86.5005119066,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+64,2015,64.5733539385,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+65,2016,97.0993597954,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+66,2017,97.0919732441,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+67,2018,98.3096033475,EG.ELC.ACCS.RU.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+68,2011,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+69,2012,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+70,2013,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+71,2014,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+72,2015,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+73,2016,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+74,2017,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+75,2018,100.0,EG.ELC.ACCS.RU.ZS,CAN,Canada,North America,High income,Not classified
+76,2011,56.4257518454,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+77,2012,56.2426788514,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+78,2013,56.0967181806,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+79,2014,55.9802592217,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+80,2015,55.8868788961,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+81,2016,55.8100626977,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+82,2017,54.2074230533,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+83,2018,56.8579061022,EG.ELC.ACCS.RU.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+84,2011,85.7404890485,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+85,2012,84.6177306733,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+86,2013,88.4647809821,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+87,2014,91.2396917226,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+88,2015,93.1427012332,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+89,2016,97.1637674945,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+90,2017,96.9414876253,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+91,2018,99.4932297991,EG.ELC.ACCS.RU.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+92,2011,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+93,2012,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+94,2013,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+95,2014,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+96,2015,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+97,2016,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+98,2017,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+99,2018,100.0,EG.ELC.ACCS.RU.ZS,USA,United States,North America,High income,Not classified
+100,2011,86.5677791512,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+101,2012,95.0,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+102,2013,92.7733535767,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+103,2014,98.7,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+104,2015,92.5,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+105,2016,99.5,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+106,2017,99.5,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+107,2018,99.9021453857,EG.ELC.ACCS.UR.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+108,2011,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+109,2012,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+110,2013,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+111,2014,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+112,2015,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+113,2016,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+114,2017,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+115,2018,100.0,EG.ELC.ACCS.UR.ZS,CAN,Canada,North America,High income,Not classified
+116,2011,97.4868545532,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+117,2012,97.8667831421,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+118,2013,98.2420043945,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+119,2014,98.6132888794,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+120,2015,98.9814376831,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+121,2016,99.3472290039,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+122,2017,99.7114486694,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+123,2018,99.8870697021,EG.ELC.ACCS.UR.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+124,2011,96.83,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+125,2012,97.71,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+126,2013,98.0,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+127,2014,98.913482666,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+128,2015,99.6724395752,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+129,2016,99.0,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+130,2017,99.9795227051,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+131,2018,100.0,EG.ELC.ACCS.UR.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+132,2011,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+133,2012,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+134,2013,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+135,2014,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+136,2015,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+137,2016,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+138,2017,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
+139,2018,100.0,EG.ELC.ACCS.UR.ZS,USA,United States,North America,High income,Not classified
